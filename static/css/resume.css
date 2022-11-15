@@ -107,7 +107,7 @@ p.lead {
     -ms-flex-direction: column;
     flex-direction: column;
     width: 17rem;
-    height: 50vh;
+    height: 100vh;
   }
   #sideNav .navbar-brand {
     display: -webkit-box;
@@ -178,7 +178,7 @@ section.resume-section .resume-item .resume-date {
 
 @media (min-width: 768px) {
   section.resume-section {
-    min-height: 50vh;
+    min-height: 100vh;
   }
   section.resume-section .resume-item .resume-date {
     min-width: 18rem;
